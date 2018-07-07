@@ -1,5 +1,5 @@
-# Autocorrelations
-understanding autocorrelations in wolfram
+# Auto/Cross-correlations
+understanding auto/cross-correlations in wolfram
 
 ## Random Gaussians
 
