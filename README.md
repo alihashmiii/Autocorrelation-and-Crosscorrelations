@@ -1,7 +1,7 @@
 # Autocorrelations
 understanding autocorrelations in wolfram
 
-### Random Gaussians
+## Random Gaussians
 
 ![alt-text](https://github.com/alihashmiii/Autocorrelations/blob/master/readMe/img01.png)
 
@@ -10,7 +10,7 @@ understanding autocorrelations in wolfram
 ![alt-text](https://github.com/alihashmiii/Autocorrelations/blob/master/readMe/img03.png)
 
 
-### Gaussians in a Line
+## Gaussians in a Line
 
 ![alt-text](https://github.com/alihashmiii/Autocorrelations/blob/master/readMe/img04.png)
 
