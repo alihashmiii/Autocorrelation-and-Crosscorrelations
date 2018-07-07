@@ -19,9 +19,8 @@ computing 2D auto/cross-correlations using ImageCorrelate (output is the same di
 larger than the input) 
 *)
 
-(* 
-different methods can be used: Dot, EuclideanDistance, SquaredEuclideanDistance, NormalizedSquaredEuclideanDistance, CosineDistance etc.
-*)
+(* different methods can be used for ImageCorrelate: Dot, EuclideanDistance, SquaredEuclideanDistance, NormalizedSquaredEuclideanDistance,
+CosineDistance etc. *)
 
 imageCorrelation[input_Image]:= ImageAdjust@ImageCorrelate[input,input,PerformanceGoal -> "Quality"];
 
