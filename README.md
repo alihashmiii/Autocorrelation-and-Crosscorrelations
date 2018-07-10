@@ -1,5 +1,9 @@
 # Auto/Cross-correlations
+
 auto/cross-correlations in wolfram
+
+
+`@Author: Ali Hashmi`
 
 ## Random Gaussians
 
