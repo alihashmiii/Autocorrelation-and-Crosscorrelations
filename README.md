@@ -1,6 +1,6 @@
 # Auto/Cross-correlations
 
-This repository implements the auto/cross correlations in the Wolfram Language from built-in functions, namely the `CorrelationFunction`, `ListCorrelate` and the `ImageCorrelate` functions. The `CorrelationFunction` can be used to determine the autocorrelation for a vector or `TemporalData`. The `ListCorrelate` function can be used to compute the n-Dimensional autocorrelation and crosscorrelation of signal(s). `ImageCorrelate` returns the correlation of an image given a kernel (it yields autocorrelation if the kernel is the image itself).   
+This repository implements the auto/cross correlations in the Wolfram Language from built-in functions, namely the `AbsoluteCorrelationFunction`, `CorrelationFunction`, `ListCorrelate` and the `ImageCorrelate` functions. The `CorrelationFunction` can be used to determine the autocorrelation for a vector or `TemporalData`. The `ListCorrelate` function can be used to compute the n-Dimensional autocorrelation and crosscorrelation of signal(s). `ImageCorrelate` returns the correlation of an image given a kernel (it yields autocorrelation if the kernel is the image itself).   
 
 Below we explore the use of autocorrelation to find spatial distances separating gaussians.  
 
